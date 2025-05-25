@@ -1,0 +1,6 @@
+datasets
+evaluate
+accelerate
+pandas
+wandb
+torch
